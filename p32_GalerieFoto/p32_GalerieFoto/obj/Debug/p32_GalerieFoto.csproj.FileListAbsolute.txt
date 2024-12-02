@@ -1,0 +1,15 @@
+D:\12A\p32_GalerieFoto\p32_GalerieFoto\bin\Debug\p32_GalerieFoto.exe.config
+D:\12A\p32_GalerieFoto\p32_GalerieFoto\obj\Debug\p32_GalerieFoto.csprojResolveAssemblyReference.cache
+D:\12A\p32_GalerieFoto\p32_GalerieFoto\obj\Debug\p32_GalerieFoto.Form1.resources
+D:\12A\p32_GalerieFoto\p32_GalerieFoto\obj\Debug\p32_GalerieFoto.Properties.Resources.resources
+D:\12A\p32_GalerieFoto\p32_GalerieFoto\obj\Debug\p32_GalerieFoto.csproj.GenerateResource.Cache
+D:\12A\p32_GalerieFoto\p32_GalerieFoto\bin\Debug\p32_GalerieFoto.exe
+D:\12A\p32_GalerieFoto\p32_GalerieFoto\bin\Debug\p32_GalerieFoto.pdb
+D:\12A\p32_GalerieFoto\p32_GalerieFoto\obj\Debug\p32_GalerieFoto.exe
+D:\12A\p32_GalerieFoto\p32_GalerieFoto\obj\Debug\p32_GalerieFoto.pdb
+C:\Users\User18\Desktop\p32_GalerieFoto\p32_GalerieFoto\bin\Debug\p32_GalerieFoto.exe.config
+C:\Users\User18\Desktop\p32_GalerieFoto\p32_GalerieFoto\obj\Debug\p32_GalerieFoto.exe
+C:\Users\User18\Desktop\p32_GalerieFoto\p32_GalerieFoto\obj\Debug\p32_GalerieFoto.pdb
+E:\INFO\C# 2023\p32_GalerieFoto\p32_GalerieFoto\bin\Debug\p32_GalerieFoto.exe.config
+E:\INFO\C# 2023\p32_GalerieFoto\p32_GalerieFoto\obj\Debug\p32_GalerieFoto.exe
+E:\INFO\C# 2023\p32_GalerieFoto\p32_GalerieFoto\obj\Debug\p32_GalerieFoto.pdb

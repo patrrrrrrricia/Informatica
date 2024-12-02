@@ -1,0 +1,9 @@
+D:\12A\p33_MediaLaInfo\p33_MediaLaInfo\bin\Debug\p33_MediaLaInfo.exe.config
+D:\12A\p33_MediaLaInfo\p33_MediaLaInfo\bin\Debug\p33_MediaLaInfo.exe
+D:\12A\p33_MediaLaInfo\p33_MediaLaInfo\bin\Debug\p33_MediaLaInfo.pdb
+D:\12A\p33_MediaLaInfo\p33_MediaLaInfo\obj\Debug\p33_MediaLaInfo.csprojResolveAssemblyReference.cache
+D:\12A\p33_MediaLaInfo\p33_MediaLaInfo\obj\Debug\p33_MediaLaInfo.Form1.resources
+D:\12A\p33_MediaLaInfo\p33_MediaLaInfo\obj\Debug\p33_MediaLaInfo.Properties.Resources.resources
+D:\12A\p33_MediaLaInfo\p33_MediaLaInfo\obj\Debug\p33_MediaLaInfo.csproj.GenerateResource.Cache
+D:\12A\p33_MediaLaInfo\p33_MediaLaInfo\obj\Debug\p33_MediaLaInfo.exe
+D:\12A\p33_MediaLaInfo\p33_MediaLaInfo\obj\Debug\p33_MediaLaInfo.pdb
