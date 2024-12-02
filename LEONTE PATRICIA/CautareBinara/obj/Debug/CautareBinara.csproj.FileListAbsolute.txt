@@ -1,0 +1,14 @@
+D:\INFO\C# 2023\CautareBinara\CautareBinara\obj\Debug\CautareBinara.csproj.AssemblyReference.cache
+D:\INFO\C# 2023\CautareBinara\CautareBinara\obj\Debug\CautareBinara.csproj.CoreCompileInputs.cache
+D:\INFO\C# 2023\CautareBinara\CautareBinara\bin\Debug\CautareBinara.exe.config
+D:\INFO\C# 2023\CautareBinara\CautareBinara\bin\Debug\CautareBinara.exe
+D:\INFO\C# 2023\CautareBinara\CautareBinara\bin\Debug\CautareBinara.pdb
+D:\INFO\C# 2023\CautareBinara\CautareBinara\obj\Debug\CautareBinara.exe
+D:\INFO\C# 2023\CautareBinara\CautareBinara\obj\Debug\CautareBinara.pdb
+D:\INFO\C# 2023\LEONTE PATRICIA\CautareBinara\bin\Debug\CautareBinara.exe.config
+D:\INFO\C# 2023\LEONTE PATRICIA\CautareBinara\bin\Debug\CautareBinara.exe
+D:\INFO\C# 2023\LEONTE PATRICIA\CautareBinara\bin\Debug\CautareBinara.pdb
+D:\INFO\C# 2023\LEONTE PATRICIA\CautareBinara\obj\Debug\CautareBinara.csproj.AssemblyReference.cache
+D:\INFO\C# 2023\LEONTE PATRICIA\CautareBinara\obj\Debug\CautareBinara.csproj.CoreCompileInputs.cache
+D:\INFO\C# 2023\LEONTE PATRICIA\CautareBinara\obj\Debug\CautareBinara.exe
+D:\INFO\C# 2023\LEONTE PATRICIA\CautareBinara\obj\Debug\CautareBinara.pdb
