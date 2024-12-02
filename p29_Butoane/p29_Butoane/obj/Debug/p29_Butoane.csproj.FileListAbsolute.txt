@@ -1,0 +1,9 @@
+D:\12A\p29_Butoane\p29_Butoane\bin\Debug\p29_Butoane.exe.config
+D:\12A\p29_Butoane\p29_Butoane\obj\Debug\p29_Butoane.csprojResolveAssemblyReference.cache
+D:\12A\p29_Butoane\p29_Butoane\obj\Debug\p29_Butoane.Form1.resources
+D:\12A\p29_Butoane\p29_Butoane\obj\Debug\p29_Butoane.Properties.Resources.resources
+D:\12A\p29_Butoane\p29_Butoane\obj\Debug\p29_Butoane.csproj.GenerateResource.Cache
+D:\12A\p29_Butoane\p29_Butoane\bin\Debug\p29_Butoane.exe
+D:\12A\p29_Butoane\p29_Butoane\bin\Debug\p29_Butoane.pdb
+D:\12A\p29_Butoane\p29_Butoane\obj\Debug\p29_Butoane.exe
+D:\12A\p29_Butoane\p29_Butoane\obj\Debug\p29_Butoane.pdb

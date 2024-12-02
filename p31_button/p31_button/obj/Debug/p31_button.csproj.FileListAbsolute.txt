@@ -1,0 +1,9 @@
+D:\12A\p31_button\p31_button\bin\Debug\p31_button.exe.config
+D:\12A\p31_button\p31_button\obj\Debug\p31_button.csprojResolveAssemblyReference.cache
+D:\12A\p31_button\p31_button\obj\Debug\p31_button.Form1.resources
+D:\12A\p31_button\p31_button\obj\Debug\p31_button.Properties.Resources.resources
+D:\12A\p31_button\p31_button\obj\Debug\p31_button.csproj.GenerateResource.Cache
+D:\12A\p31_button\p31_button\bin\Debug\p31_button.exe
+D:\12A\p31_button\p31_button\bin\Debug\p31_button.pdb
+D:\12A\p31_button\p31_button\obj\Debug\p31_button.exe
+D:\12A\p31_button\p31_button\obj\Debug\p31_button.pdb
