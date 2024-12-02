@@ -1,0 +1,11 @@
+D:\12A\p38_atestat_Sub1\p38_atestat_Sub1\bin\Debug\p38_atestat_Sub1.exe.config
+D:\12A\p38_atestat_Sub1\p38_atestat_Sub1\obj\Debug\p38_atestat_Sub1.csprojResolveAssemblyReference.cache
+D:\12A\p38_atestat_Sub1\p38_atestat_Sub1\obj\Debug\p38_atestat_Sub1.Form1.resources
+D:\12A\p38_atestat_Sub1\p38_atestat_Sub1\obj\Debug\p38_atestat_Sub1.Properties.Resources.resources
+D:\12A\p38_atestat_Sub1\p38_atestat_Sub1\obj\Debug\p38_atestat_Sub1.csproj.GenerateResource.Cache
+D:\12A\p38_atestat_Sub1\p38_atestat_Sub1\bin\Debug\cinema.mdf
+D:\12A\p38_atestat_Sub1\p38_atestat_Sub1\bin\Debug\cinema_log.ldf
+D:\12A\p38_atestat_Sub1\p38_atestat_Sub1\bin\Debug\p38_atestat_Sub1.exe
+D:\12A\p38_atestat_Sub1\p38_atestat_Sub1\bin\Debug\p38_atestat_Sub1.pdb
+D:\12A\p38_atestat_Sub1\p38_atestat_Sub1\obj\Debug\p38_atestat_Sub1.exe
+D:\12A\p38_atestat_Sub1\p38_atestat_Sub1\obj\Debug\p38_atestat_Sub1.pdb

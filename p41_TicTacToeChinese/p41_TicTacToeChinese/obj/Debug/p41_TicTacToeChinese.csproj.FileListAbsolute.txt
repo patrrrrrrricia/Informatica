@@ -1,0 +1,9 @@
+D:\12A\p41_TicTacToeChinese\p41_TicTacToeChinese\bin\Debug\p41_TicTacToeChinese.exe.config
+D:\12A\p41_TicTacToeChinese\p41_TicTacToeChinese\obj\Debug\p41_TicTacToeChinese.csprojResolveAssemblyReference.cache
+D:\12A\p41_TicTacToeChinese\p41_TicTacToeChinese\obj\Debug\p41_TicTacToeChinese.Form1.resources
+D:\12A\p41_TicTacToeChinese\p41_TicTacToeChinese\obj\Debug\p41_TicTacToeChinese.Properties.Resources.resources
+D:\12A\p41_TicTacToeChinese\p41_TicTacToeChinese\obj\Debug\p41_TicTacToeChinese.csproj.GenerateResource.Cache
+D:\12A\p41_TicTacToeChinese\p41_TicTacToeChinese\bin\Debug\p41_TicTacToeChinese.exe
+D:\12A\p41_TicTacToeChinese\p41_TicTacToeChinese\bin\Debug\p41_TicTacToeChinese.pdb
+D:\12A\p41_TicTacToeChinese\p41_TicTacToeChinese\obj\Debug\p41_TicTacToeChinese.exe
+D:\12A\p41_TicTacToeChinese\p41_TicTacToeChinese\obj\Debug\p41_TicTacToeChinese.pdb
